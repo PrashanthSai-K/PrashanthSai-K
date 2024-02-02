@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srisathyasai24680@gmail.com**
 
-- 📄 Know about my experiences [I am a passionate full-stack developer specializing in React, Node.js, and Nginx. With hands- on experience in crafting both basic and intermediate projects, I bring a commitment to clean code, creative problem-solving, and collaborative development. Proficient in Git, I am dedicated to continuous learning and delivering impactful web solutions.](I am a passionate full-stack developer specializing in React, Node.js, and Nginx. With hands- on experience in crafting both basic and intermediate projects, I bring a commitment to clean code, creative problem-solving, and collaborative development. Proficient in Git, I am dedicated to continuous learning and delivering impactful web solutions.)
+- 📄 Know about my experiences [I am a passionate full-stack developer specializing in React, Node.js, and Nginx. With hands- on experience in crafting both basic and intermediate projects, I bring a commitment to clean code, creative problem-solving, and collaborative development. Proficient in Git, I am dedicated to continuous learning and delivering impactful web solutions.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
