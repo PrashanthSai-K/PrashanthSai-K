@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Express, AWS**
   
-- 😎To know about me visit [https://prashanthsaik.vercel.app/]
+- 😎To know about me visit [https://prashanthsaik.vercel.app/](https://prashanthsaik.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashanthSai-K/](https://github.com/PrashanthSai-K/)
 
